@@ -1,0 +1,12 @@
+{
+  "base_url": "https://archive.epgdata.jp/",
+  "format_version": 1,
+  "regions": [
+    {
+      "manifest": "tokyo/manifest.json",
+      "name": "東京",
+      "region": "tokyo",
+      "site": "https://tokyo.epgdata.jp/"
+    }
+  ]
+}

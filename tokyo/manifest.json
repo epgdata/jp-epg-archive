@@ -1,0 +1,688 @@
+{
+  "base_url": "https://archive.epgdata.jp/",
+  "format_version": 1,
+  "months": [
+    {
+      "files": [
+        {
+          "bytes": 4566109,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-01.r1.sqlite.zst",
+          "sha256": "17ecb73a50ead17607aa970ad1aa2d54b1682a58651ef6b66f13888242a04607"
+        },
+        {
+          "bytes": 9138570,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-01.r1.csv.zip",
+          "sha256": "f2cf78ab64e1d170a9612be3fd0c91b85a9bddbd789c5e50dbf21d57f6985c5b"
+        },
+        {
+          "bytes": 5762408,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-01.r1.programmes.parquet",
+          "sha256": "65f5219638330130c84d372aad240addb12bba76a3278e7353c73e96f42ea9d2"
+        }
+      ],
+      "generated_at": "2026-10-06T07:20:55+00:00",
+      "month": "2025-01",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4224,
+        "event": 73174,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 3990402,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-02.r1.sqlite.zst",
+          "sha256": "13dfa1770ac5964aa9ea50dcb5f9480c1367a254b5d1dc325b835fa446ed9ee2"
+        },
+        {
+          "bytes": 8063480,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-02.r1.csv.zip",
+          "sha256": "58fcc7ba90ce7ce7697337e8a0cb912549418065f87d50be19ac6a845c5b7c59"
+        },
+        {
+          "bytes": 5039178,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-02.r1.programmes.parquet",
+          "sha256": "bcae64d36d086cd0cbbf0534c88062c926fce915f2a490dee1ad2c66319848cc"
+        }
+      ],
+      "generated_at": "2026-10-06T07:22:00+00:00",
+      "month": "2025-02",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 3837,
+        "event": 68197,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4592511,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-03.r1.sqlite.zst",
+          "sha256": "9fc9a7bc857f59d443e05e5b01306df09ee6ea98c9e6728b5cab4b2dabe56e3e"
+        },
+        {
+          "bytes": 9403496,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-03.r1.csv.zip",
+          "sha256": "2a7fe2c7813985e2ec44189c8447388abf1a884862201b097c2cfdd1294a2566"
+        },
+        {
+          "bytes": 5966567,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-03.r1.programmes.parquet",
+          "sha256": "27c5c785926507f6143f5cd4c9ea675e9ce9c9149ad5744adbf1ae4bab9520bb"
+        }
+      ],
+      "generated_at": "2026-10-06T07:23:12+00:00",
+      "month": "2025-03",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4178,
+        "event": 74524,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4394741,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-04.r1.sqlite.zst",
+          "sha256": "ca276ff087a8dbf0fd7956aeb713048a90e61466ed830d715465cacccc25528a"
+        },
+        {
+          "bytes": 9163140,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-04.r1.csv.zip",
+          "sha256": "57429bde4039882be12524b140bec07f3baf4c3e821241ea75d11f2952770f16"
+        },
+        {
+          "bytes": 5794754,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-04.r1.programmes.parquet",
+          "sha256": "ea968e80a320a0f54a06c8577a536c8c1fa5d73563e673618e3311040745b3e2"
+        }
+      ],
+      "generated_at": "2026-10-06T07:24:21+00:00",
+      "month": "2025-04",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4114,
+        "event": 72156,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4588649,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-05.r1.sqlite.zst",
+          "sha256": "ab8e8d6db2053352a84bd83349fa3ec74b651e5cdc57596734a01226f227cfa0"
+        },
+        {
+          "bytes": 9697198,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-05.r1.csv.zip",
+          "sha256": "6ead8905f57bf69043dac27dced3251ffb073eefc7238481d900c4cb2af5f24a"
+        },
+        {
+          "bytes": 6096308,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-05.r1.programmes.parquet",
+          "sha256": "9d48b9d09c69f116a7c8f36d837bedf5d7bb4154eeec8b119ed06fe035bea62e"
+        }
+      ],
+      "generated_at": "2026-10-06T07:25:33+00:00",
+      "month": "2025-05",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4244,
+        "event": 74444,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4505772,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-06.r1.sqlite.zst",
+          "sha256": "5046320cd76c75543dd9aea8b6577771cfcc34a715eafcb135fbb799f812e875"
+        },
+        {
+          "bytes": 9346293,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-06.r1.csv.zip",
+          "sha256": "a0c076ddecaa5f015a464f6ba12e7cff82ac358e62c3379b06158914ece9b0d8"
+        },
+        {
+          "bytes": 5965880,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-06.r1.programmes.parquet",
+          "sha256": "9c5d763190a96f7567dec44c2cc13d992eb9181084b38fbd4301ce213e32d4ae"
+        }
+      ],
+      "generated_at": "2026-10-06T07:26:40+00:00",
+      "month": "2025-06",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4103,
+        "event": 72019,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4088244,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-07.r1.sqlite.zst",
+          "sha256": "522ae95613ba19da4a22c8226acea9b473e36a1fc8d63d7e36de077e9862233e"
+        },
+        {
+          "bytes": 8297755,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-07.r1.csv.zip",
+          "sha256": "2b0e765f97ef14cc26ece6f8ffe61deb7933bb117347f41824323c3dcabd6a2d"
+        },
+        {
+          "bytes": 5059873,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-07.r1.programmes.parquet",
+          "sha256": "f42978c67e1943382619d72132aef9c03eb358080d13aaa5bf6735fe4746c3d4"
+        }
+      ],
+      "generated_at": "2026-10-06T07:27:44+00:00",
+      "month": "2025-07",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4168,
+        "event": 71683,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4231980,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-08.r1.sqlite.zst",
+          "sha256": "7c7f20c0120fb50e20ee8c1c91b8e14fbba363899da6532ec84fd39278ea8f44"
+        },
+        {
+          "bytes": 8611164,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-08.r1.csv.zip",
+          "sha256": "9192d36bab95f9afe94b064a9cf7e07ae2cca94611e43ce049941f2aea32c747"
+        },
+        {
+          "bytes": 5266949,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-08.r1.programmes.parquet",
+          "sha256": "3bb92bee477050edfbc6bca6260d92804cdf1642edc5e642aca5c1e5501f23e2"
+        }
+      ],
+      "generated_at": "2026-10-06T07:28:53+00:00",
+      "month": "2025-08",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4174,
+        "event": 73208,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4505210,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-09.r1.sqlite.zst",
+          "sha256": "bb5888906f1e753367b44a6f89e36ea507641490183161643589c1b0dbe8222c"
+        },
+        {
+          "bytes": 9361744,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-09.r1.csv.zip",
+          "sha256": "1ba401407b9c4739967077cc4e114ba7a16672dd6740835f30349a3fd72e9d79"
+        },
+        {
+          "bytes": 5905286,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-09.r1.programmes.parquet",
+          "sha256": "9f83a72244ff12cf74d7282c9cd2a02ce99808d07698159b45644bf64c015b17"
+        }
+      ],
+      "generated_at": "2026-10-06T07:29:55+00:00",
+      "month": "2025-09",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4041,
+        "event": 71513,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4714444,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-10.r1.sqlite.zst",
+          "sha256": "eacaa250ec564dd290c5d8a40a4c08215a71fae67321cbde9329e10e9ece51e8"
+        },
+        {
+          "bytes": 9928249,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-10.r1.csv.zip",
+          "sha256": "ebd59a8a7be1cf8ce4d273c1d5019e25ea773379f00834c77135f8db47625b97"
+        },
+        {
+          "bytes": 6290475,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-10.r1.programmes.parquet",
+          "sha256": "4e10c589722f0fe7ca7f11ac7c69cbcbf360b5295fbcb3a70d0e03a5938d7a62"
+        }
+      ],
+      "generated_at": "2026-10-06T07:31:07+00:00",
+      "month": "2025-10",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4246,
+        "event": 75642,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4151777,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-11.r1.sqlite.zst",
+          "sha256": "5329b97050aebd40d73f59e79d52286f7c9e7c8f456cc509b0a270f517256d1b"
+        },
+        {
+          "bytes": 8378800,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-11.r1.csv.zip",
+          "sha256": "9e3d27edbe916d9dbb461330012c0527d2ac6b64bc5d0f9e1031924b1915e22b"
+        },
+        {
+          "bytes": 5185467,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-11.r1.programmes.parquet",
+          "sha256": "a916d6e34202105a8d28221d756e54d52c49539eea477bd1e6012f66ac5e893d"
+        }
+      ],
+      "generated_at": "2026-10-06T07:32:11+00:00",
+      "month": "2025-11",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4110,
+        "event": 72963,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4166580,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2025/epg-tokyo-2025-12.r1.sqlite.zst",
+          "sha256": "d372cf74a10a1f219dd9099c9659026932a8af2145706b8cd768f9d6ddc5492b"
+        },
+        {
+          "bytes": 8244823,
+          "format": "csv+zip",
+          "path": "tokyo/2025/epg-tokyo-2025-12.r1.csv.zip",
+          "sha256": "72dd25e9ba89dbac299bae6bce07fa1ecfd9bfe45b7d6604fbd11758e7f96acd"
+        },
+        {
+          "bytes": 4990106,
+          "format": "parquet:programmes",
+          "path": "tokyo/2025/epg-tokyo-2025-12.r1.programmes.parquet",
+          "sha256": "264bc5d5c6bd5cbfda7667018d9f43fe45bab6fda77584baceb9b09dc51a84b7"
+        }
+      ],
+      "generated_at": "2026-10-06T07:33:23+00:00",
+      "month": "2025-12",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4247,
+        "event": 73678,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4332219,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-01.r1.sqlite.zst",
+          "sha256": "de084673bd125f0e0016bcd05653966d54cea9d384b55878cccc12b3998e57a9"
+        },
+        {
+          "bytes": 8676852,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-01.r1.csv.zip",
+          "sha256": "2eb8a76793276a7431748e73fa0148d0157fe8834238d7df840be3ad22db76b7"
+        },
+        {
+          "bytes": 5408571,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-01.r1.programmes.parquet",
+          "sha256": "e4b3c05b2114711665c95d33cfcbc0d1eded19076f25ccfe6b424fff8137edf0"
+        }
+      ],
+      "generated_at": "2026-10-06T07:34:36+00:00",
+      "month": "2026-01",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4176,
+        "event": 72881,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4302778,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-02.r1.sqlite.zst",
+          "sha256": "2e3ee0a66bc97ecd36db1bb773b316c36403b8c0d3a6cb2655b53129344b2120"
+        },
+        {
+          "bytes": 8765042,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-02.r1.csv.zip",
+          "sha256": "54c672a0e040f0bc10aa13496ef65538a404053ecd0c8e49530b1466c094b423"
+        },
+        {
+          "bytes": 5590865,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-02.r1.programmes.parquet",
+          "sha256": "8642bb96431866efaabd8c2fcde8685f5de822cf3d080dd36f5c47606ac58400"
+        }
+      ],
+      "generated_at": "2026-10-06T07:35:43+00:00",
+      "month": "2026-02",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 3777,
+        "event": 67569,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4534597,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-03.r1.sqlite.zst",
+          "sha256": "1f0d64d881b41ba02174dbc2d55ee31e61b05bd477f0900093f67be51bd4e833"
+        },
+        {
+          "bytes": 9314243,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-03.r1.csv.zip",
+          "sha256": "b455a3939458821dc64dbd5774ae389c5bf649bf2800f5605d230633cdcd98fe"
+        },
+        {
+          "bytes": 5872801,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-03.r1.programmes.parquet",
+          "sha256": "18bf3763e00f306368dcd62595f626c2123cd86c96da282b9955e4bd9da3cc97"
+        }
+      ],
+      "generated_at": "2026-10-06T07:36:56+00:00",
+      "month": "2026-03",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4177,
+        "event": 75041,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 3408891,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-04.r1.sqlite.zst",
+          "sha256": "2b4beeb40d7036fd454b2e4a112d148c5e9251c85d2d90230f50d5137b00abce"
+        },
+        {
+          "bytes": 7156373,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-04.r1.csv.zip",
+          "sha256": "5ff671ae37111ff69cd0644bad4ba085627c149ffe98ffa5a5bf06efa0a24a50"
+        },
+        {
+          "bytes": 4094668,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-04.r1.programmes.parquet",
+          "sha256": "fb0945756cd50cc31e82078d3c92df1e2eb46085282ed47784c02bba456d7450"
+        }
+      ],
+      "generated_at": "2026-10-06T07:38:03+00:00",
+      "month": "2026-04",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4108,
+        "event": 71933,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 3868467,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-05.r1.sqlite.zst",
+          "sha256": "0700e1c70690013a64be07cf31567129f8f32d822aa126ae4bc823feaf5d00e1"
+        },
+        {
+          "bytes": 8010822,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-05.r1.csv.zip",
+          "sha256": "2544737fd18371b3fcced6ce947c9b864b2a190808fabe828bba57ff6c63a199"
+        },
+        {
+          "bytes": 4801443,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-05.r1.programmes.parquet",
+          "sha256": "116f25b2c9c4110838b468bc2d44c3b08bb021c8e8a2ea662ce86d4f1f7dbacf"
+        }
+      ],
+      "generated_at": "2026-10-06T07:39:13+00:00",
+      "month": "2026-05",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4248,
+        "event": 74439,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 3702674,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-06.r1.sqlite.zst",
+          "sha256": "5c548720c06926900a124b862f6b092b0023c134bd34f36360a760e39dd857d8"
+        },
+        {
+          "bytes": 7610238,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-06.r1.csv.zip",
+          "sha256": "7d205e4d576bc9e39a9e4e6fc7a4e068385f7d5d266994c20afe0e7c394c0359"
+        },
+        {
+          "bytes": 4461872,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-06.r1.programmes.parquet",
+          "sha256": "561547bcd4ef5ab9d943ea6d3933bcf41f1045e799e9b7977f308d8017ecf561"
+        }
+      ],
+      "generated_at": "2026-10-06T07:40:18+00:00",
+      "month": "2026-06",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4108,
+        "event": 71829,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4010622,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-07.r1.sqlite.zst",
+          "sha256": "1036c9a60a7447dd794202e3673fd55bd073f673dd1be952a045a4c96cdb9bb6"
+        },
+        {
+          "bytes": 8216800,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-07.r1.csv.zip",
+          "sha256": "2b6e55e48e47602ef6c2c9ba855c12bce69ab933e6690d918978868446fe5006"
+        },
+        {
+          "bytes": 4995963,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-07.r1.programmes.parquet",
+          "sha256": "6068c2202efbb8a48d51cab3c7de9b98cbcbd8e98898e26fb681e18a4e0073e0"
+        }
+      ],
+      "generated_at": "2026-10-06T07:41:26+00:00",
+      "month": "2026-07",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4206,
+        "event": 73418,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 4358646,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-08.r1.sqlite.zst",
+          "sha256": "0abdce5efe0cc97738f866bc39cfacdb8475a955049f3eb8cd017311c0996e9f"
+        },
+        {
+          "bytes": 9014719,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-08.r1.csv.zip",
+          "sha256": "522fa6232858bc0587e84b15eea351c45a0fb41a77aade19f4323695d772122e"
+        },
+        {
+          "bytes": 5652666,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-08.r1.programmes.parquet",
+          "sha256": "36dc057841f2fd1ff80d286806ce58920179c326e3b182774ec6ff3def25a269"
+        }
+      ],
+      "generated_at": "2026-10-06T07:42:38+00:00",
+      "month": "2026-08",
+      "revision": 1,
+      "rows": {
+        "aired": 0,
+        "attr": 6819,
+        "day_source": 4168,
+        "event": 73710,
+        "service": 124
+      }
+    },
+    {
+      "files": [
+        {
+          "bytes": 3734353,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-09.r1.sqlite.zst",
+          "sha256": "4c9431bfb3e7bc176e760b36441d842add40a971934b2b62b61893b39a672808"
+        },
+        {
+          "bytes": 7376299,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-09.r1.csv.zip",
+          "sha256": "0b38d2e1e12d227f390e1c012b02dce7481781a7647fc1858acd613751ccedd3"
+        },
+        {
+          "bytes": 4200872,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-09.r1.programmes.parquet",
+          "sha256": "f575de8b4b0512cda00ada00496a176ec1b732e8c4afc66f6cb3197204ea07e3"
+        },
+        {
+          "bytes": 206761,
+          "format": "parquet:aired",
+          "path": "tokyo/2026/epg-tokyo-2026-09.r1.aired.parquet",
+          "sha256": "7e2990660856dbd9a58ddcf1fd7b17465953cf45324a14d2d921709c386c1d58"
+        }
+      ],
+      "generated_at": "2026-10-06T09:18:45+00:00",
+      "month": "2026-09",
+      "revision": 1,
+      "rows": {
+        "aired": 3332,
+        "attr": 6819,
+        "day_source": 4070,
+        "event": 67699,
+        "service": 124
+      },
+      "rows_sha256": "c274d0046d5089198a6c224dac78029b13bf67c37408b08d9d014810698fde71"
+    }
+  ],
+  "name": "東京",
+  "region": "tokyo",
+  "site": "https://tokyo.epgdata.jp/"
+}

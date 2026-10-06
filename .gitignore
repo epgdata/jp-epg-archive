@@ -1,0 +1,6 @@
+__pycache__/
+*.part
+*.sqlite
+*.sqlite.zst
+*.csv.zip
+*.parquet
