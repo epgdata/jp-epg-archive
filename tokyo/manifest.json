@@ -681,6 +681,45 @@
         "service": 124
       },
       "rows_sha256": "c274d0046d5089198a6c224dac78029b13bf67c37408b08d9d014810698fde71"
+    },
+    {
+      "files": [
+        {
+          "bytes": 5992904,
+          "format": "sqlite+zstd",
+          "path": "tokyo/2026/epg-tokyo-2026-10.r1.sqlite.zst",
+          "sha256": "a0649e84661c944f1ded7b11b12dd8cba5caaac610cd28471650c08194bb0ada"
+        },
+        {
+          "bytes": 12109991,
+          "format": "csv+zip",
+          "path": "tokyo/2026/epg-tokyo-2026-10.r1.csv.zip",
+          "sha256": "e4193db53126d93409ead6d2f9d292eb132475b1bd22a280b9ea7ae5528fc9f8"
+        },
+        {
+          "bytes": 6726215,
+          "format": "parquet:programmes",
+          "path": "tokyo/2026/epg-tokyo-2026-10.r1.programmes.parquet",
+          "sha256": "9d50fc81ecc716240aa47861e10eb833cf6f282e4e4e5bff278e124b03a91637"
+        },
+        {
+          "bytes": 703108,
+          "format": "parquet:aired",
+          "path": "tokyo/2026/epg-tokyo-2026-10.r1.aired.parquet",
+          "sha256": "9607d0ffe0f504633a2bb4f66310b3a55c0331fb91dee4d6a3948be2f0e9c623"
+        }
+      ],
+      "generated_at": "2026-11-02T19:44:30+00:00",
+      "month": "2026-10",
+      "revision": 1,
+      "rows": {
+        "aired": 23224,
+        "attr": 6935,
+        "day_source": 6968,
+        "event": 101309,
+        "service": 124
+      },
+      "rows_sha256": "6139e97073202509d3ba229c50ebc2952d1d229c32d1c9007de9986a0982c17e"
     }
   ],
   "name": "東京",
